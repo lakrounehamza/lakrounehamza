@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lakroune hamza</h1>
-<h3 align="center">I'm a passionate front-end developer from Morocco.</h3>
+<h3 align="center">Full-Stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **laraval**
+- 🌱 I’m currently learning **and exploring various web technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lakrounehamza](https://github.com/lakrounehamza)
+- 🏫I'm a student at @YouCodeSchool[https://github.com/YouCodeSchool]
 
-- 📝 I regularly write articles on [I regularly write articles on](I regularly write articles on)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **lakrounehamza10gmail.com**
 
-- 📄 Know about my experiences [Know about my experiences](Know about my experiences)
-
-- ⚡ Fun fact **fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,9 +31,3 @@
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakrounehamza&show_icons=true&locale=en&layout=compact" alt="lakrounehamza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakrounehamza&show_icons=true&locale=en" alt="lakrounehamza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakrounehamza&" alt="lakrounehamza" /></p>
