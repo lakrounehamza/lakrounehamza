@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakroune Hamza</h1>
+<h1 align="center">Hi 👋, Languages and Tools</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
 - 🌱 I’m currently learning and exploring various web technologies  
@@ -20,7 +20,13 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-
+printf("Hi 👋, Languages and Tools \n");
+std::cout << "Hi 👋, Languages and Tools " << std::endl;
+console.log("Hi 👋, Languages and Tools");
+echo "Hi 👋, Languages and Tools";
+SELECT 'Hi 👋, I''m Lakroune Hamza';
+disp("Hi 👋, Languages and Tools")
+System.out.println("Hi 👋, Languages and Tools");
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
