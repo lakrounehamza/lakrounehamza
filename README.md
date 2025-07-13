@@ -20,13 +20,13 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-printf("Hi 👋, Languages and Tools \n");
-std::cout << "Hi 👋, Languages and Tools " << std::endl;
-console.log("Hi 👋, Languages and Tools");
-echo "Hi 👋, Languages and Tools";
-SELECT 'Hi 👋, I''m Lakroune Hamza';
-disp("Hi 👋, Languages and Tools")
-System.out.println("Hi 👋, Languages and Tools");
+<h6></h6>printf("Hi 👋, Languages and Tools \n");</h6>
+<h6>std::cout << "Hi 👋, Languages and Tools " << std::endl;</h6>
+<h6>console.log("Hi 👋, Languages and Tools");</h6>
+<h6>echo "Hi 👋, Languages and Tools";</h6>
+<h6>SELECT 'Hi 👋, I''m Lakroune Hamza';</h6>
+<h6>disp("Hi 👋, Languages and Tools")</h6>
+<h6>System.out.println("Hi 👋, Languages and Tools");</h6>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
