@@ -14,7 +14,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <code>console.log("Hi 👋, I'm Hamza Lakroune");</code>
+  <code>printf("Hi 👋, Languages and Tools \n");</code><br>
+  <code>std::cout << "Hi 👋, Languages and Tools" << std::endl;</code><br>
+  <code>console.log("Hi 👋, Languages and Tools");</code><br>
+  <code>echo "Hi 👋, Languages and Tools";</code><br>
+  <code>SELECT 'Hi 👋, I''m Lakroune Hamza';</code><br>
+  <code>disp("Hi 👋, Languages and Tools");</code><br>
+  <code>System.out.println("Hi 👋, Languages and Tools");</code> 
 </p>
 
 <p align="center">
