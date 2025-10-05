@@ -5,19 +5,12 @@
 - 🏫 I'm a student at [YouCode School](https://github.com/YouCodeSchool)  
 - 📫 Reach me at: **lakrounehamza10@gmail.com**  
 - 📞 Phone: **+212 6 46 98 18 56**
-- <img  src="https://media.tenor.com/3k8_6jMm6XQAAAAS/pengu-pudgy.gif" alt="LinkedIn" height="30" width="30" />
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hamza-lakroune-99889a333/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-    &nbsp;LinkedIn
+- <a href="https://www.linkedin.com/in/hamza-lakroune-99889a333/" target="_blank">
+     <img  src="https://media.tenor.com/3k8_6jMm6XQAAAAS/pengu-pudgy.gif" alt="LinkedIn" height="30" width="30" />    &nbsp;LinkedIn
   </a>
-</p>
 
 ---
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
