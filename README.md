@@ -5,6 +5,7 @@
 - 🏫 I'm a student at [YouCode School](https://github.com/YouCodeSchool)  
 - 📫 Reach me at: **lakrounehamza10@gmail.com**  
 - 📞 Phone: **+212 6 46 98 18 56**
+- <img  src="https://media.tenor.com/3k8_6jMm6XQAAAAS/pengu-pudgy.gif" alt="LinkedIn" height="10" width="10" />
 
 ---
 
