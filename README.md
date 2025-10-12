@@ -8,6 +8,9 @@
 - <a href="https://www.linkedin.com/in/hamza-lakroune-99889a333/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" /> LinkedIn
   </a>
+- <a href="https://drive.google.com/file/d/1i-qZu_myV2bQOCHKSe-E5_uP5X0H3ZCk/view?usp=sharing" target="cv">
+    Mon CV
+  </a>
 
 ---
 
