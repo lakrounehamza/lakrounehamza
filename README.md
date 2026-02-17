@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza Lakroune</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h1 align="center">Full-Stack Web Developer</h1>
+<h3 align="center">lakroune hamza</h3>
 
 - 🌱 I'm currently learning and exploring various web technologies  
 - 🏫 I'm a student at [YouCode School](https://github.com/YouCodeSchool)  
