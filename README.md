@@ -1,15 +1,11 @@
 <h1 align="center">Full-Stack Web Developer</h1>
 <h3 align="center">lakroune hamza</h3>
 
-- 🌱 I'm currently learning and exploring various web technologies  
-- 🏫 I'm a student at [YouCode School](https://github.com/YouCodeSchool)  
-- 📫 Reach me at: **lakrounehamza10@gmail.com**  
+- 🌱 I'm currently learning and exploring various web technologies   
+- 📫 Reach me at: **hamzalakroune18@gmail.com**  
 - 📞 Phone: **+212 6 46 98 18 56**
-- <a href="https://www.linkedin.com/in/hamza-lakroune-99889a333/" target="_blank">
+- <a href="https://www.linkedin.com/in/hamza-lakroune-249689386/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" /> LinkedIn
-  </a>
-- <a href="https://drive.google.com/file/d/1i-qZu_myV2bQOCHKSe-E5_uP5X0H3ZCk/view?usp=sharing" target="cv">
-    Mon CV
   </a>
 
 ---
