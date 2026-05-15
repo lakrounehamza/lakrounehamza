@@ -24,65 +24,131 @@
 </p>
 </p>
 
-<p align="center">
-  <!-- Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
-  </a>
-</p>
+
+
+
+### 👨‍💻 Programming Languages
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+    <br>PHP
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <br>Java
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+    <br>C
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+    <br>C++
+  </td>
+</tr>
+</table>
+
+### 🎨 Frontend Development
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+    <br>Angular
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <br>HTML5
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+    <br>CSS3
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+    <br>Tailwind
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+    <br>Bootstrap
+  </td>
+</tr>
+</table>
+
+### ⚙️ Backend & Database
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+    <br>Laravel
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+    <br>Spring Boot
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+    <br>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <br>Redis
+  </td>
+</tr>
+</table>
+
+### 🛠️ Tools & Technologies
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+    <br>Postman
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    <br>Figma
+  </td>
+</tr>
+</table>
+
+</div>
