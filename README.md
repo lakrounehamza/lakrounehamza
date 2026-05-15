@@ -4,6 +4,7 @@
 - 🌱 I'm currently learning and exploring various web technologies   
 - 📫 Reach me at: **hamzalakroune18@gmail.com**  
 - 📞 Phone: **+212 6 46 98 18 56**
+- 🌐 Portfolio: **[lakrounehamzadev-2nv7.vercel.app](https://lakrounehamzadev-2nv7.vercel.app/)**
 - <a href="https://www.linkedin.com/in/hamza-lakroune-249689386/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" /> LinkedIn
   </a>
@@ -13,7 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <p align="center">
   <code>printf("Hi 👋, Languages and Tools \n");</code><br>
   <code>std::cout << "Hi 👋, Languages and Tools" << std::endl;</code><br>
   <code>console.log("Hi 👋, Languages and Tools");</code><br>
@@ -22,10 +22,6 @@
   <code>disp("Hi 👋, Languages and Tools");</code><br>
   <code>System.out.println("Hi 👋, Languages and Tools");</code> 
 </p>
-</p>
-
-
-
 
 ### 👨‍💻 Programming Languages
 
@@ -54,6 +50,10 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
     <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+    <br>Kotlin
   </td>
 </tr>
 </table>
@@ -102,6 +102,18 @@
     <br>Spring Boot
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony" />
+    <br>Symfony
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+    <br>WordPress
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
     <br>MySQL
   </td>
@@ -116,6 +128,25 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
     <br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" />
+    <br>SQL Server
+  </td>
+</tr>
+</table>
+
+### 📱 Mobile Development
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android SDK" />
+    <br>Android SDK
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+    <br>Kotlin
   </td>
 </tr>
 </table>
@@ -150,5 +181,3 @@
   </td>
 </tr>
 </table>
-
-</div>
